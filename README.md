@@ -13,7 +13,8 @@ There are four methods to complete in this lab:
 1. `roll_call_dwarves`
 2. `summon_captain_planet`
 3. `long_planeteer_calls`
-4. `find_the_cheese`
+4. `find_the_cheese` .
+5. 
 
 #### Method 1 — `roll_call_dwarves`
 
